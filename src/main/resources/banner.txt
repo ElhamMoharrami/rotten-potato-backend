@@ -1,0 +1,1 @@
+ROTTEN POTATO V@project.version@
