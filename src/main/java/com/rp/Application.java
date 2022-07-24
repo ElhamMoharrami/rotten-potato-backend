@@ -1,5 +1,6 @@
 package com.rp;
 
+import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.rp.domain.model.Movie;
 import com.rp.domain.repository.MovieRepository;
@@ -28,8 +29,8 @@ public class Application {
     @Bean
     InitializingBean sendDatabase() {
         return () -> {
-            ObjectMapper mapper = new ObjectMapper();
-            Movie[] movies = mapper.readValue(new File("sample.json"), Movie[].class);
+            ObjectMapper mapper = new ObjectMapper().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+            Movie[] movies = mapper.readValue(new File("movies.json"), Movie[].class);
             movieRepository.saveAll(Arrays.asList(movies));
         };
     }

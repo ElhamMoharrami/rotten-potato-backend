@@ -1,0 +1,4002 @@
+[
+  {
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+    "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "348,902",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "17 Jun 2014",
+    "BoxOffice": "$257,966,122",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2007",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "David Silverman",
+    "Writer": "James L. Brooks, Matt Groening, Al Jean",
+    "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+    "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 BAFTA Award5 wins & 34 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "327,100",
+    "imdbID": "tt0462538",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$183,135,014",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "256,495",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "11 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Vince Gilligan",
+    "Writer": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "228,680",
+    "imdbID": "tt9243946",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 2",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "04 Jul 2001",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+    "Plot": "Four teens are tricked by Professor Oldman (Tim Curry) into visiting a haunted house for a school project.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "14%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.3",
+    "imdbVotes": "160,255",
+    "imdbID": "tt0257106",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "$71,308,997",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bee Movie",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "02 Nov 2007",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Simon J. Smith, Steve Hickner",
+    "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+    "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+    "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "160,048",
+    "imdbID": "tt0389790",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$126,631,277",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "13 wins & 68 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "147,945",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,936,671",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans",
+    "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "146,513",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$110,003,217",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Jim Abrahams, Pat Proft",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "120,905",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,710,620",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Movie 43",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+    "Writer": "Rocky Russo, Jeremy Sosenko, Ricky Blitt",
+    "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+    "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "4%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "18/100"
+      }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.3",
+    "imdbVotes": "105,425",
+    "imdbID": "tt1333125",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$8,840,453",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+    "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "348,902",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "17 Jun 2014",
+    "BoxOffice": "$257,966,122",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2007",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "David Silverman",
+    "Writer": "James L. Brooks, Matt Groening, Al Jean",
+    "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+    "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 BAFTA Award5 wins & 34 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "327,100",
+    "imdbID": "tt0462538",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$183,135,014",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "256,495",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "11 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Vince Gilligan",
+    "Writer": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "228,680",
+    "imdbID": "tt9243946",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 2",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "04 Jul 2001",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+    "Plot": "Four teens are tricked by Professor Oldman (Tim Curry) into visiting a haunted house for a school project.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "14%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.3",
+    "imdbVotes": "160,255",
+    "imdbID": "tt0257106",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "$71,308,997",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bee Movie",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "02 Nov 2007",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Simon J. Smith, Steve Hickner",
+    "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+    "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+    "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "160,048",
+    "imdbID": "tt0389790",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$126,631,277",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "13 wins & 68 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "147,945",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,936,671",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans",
+    "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "146,513",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$110,003,217",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Jim Abrahams, Pat Proft",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "120,905",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,710,620",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Movie 43",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+    "Writer": "Rocky Russo, Jeremy Sosenko, Ricky Blitt",
+    "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+    "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "4%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "18/100"
+      }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.3",
+    "imdbVotes": "105,425",
+    "imdbID": "tt1333125",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$8,840,453",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+    "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "348,902",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "17 Jun 2014",
+    "BoxOffice": "$257,966,122",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2007",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "David Silverman",
+    "Writer": "James L. Brooks, Matt Groening, Al Jean",
+    "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+    "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 BAFTA Award5 wins & 34 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "327,100",
+    "imdbID": "tt0462538",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$183,135,014",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "256,495",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "11 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Vince Gilligan",
+    "Writer": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "228,680",
+    "imdbID": "tt9243946",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 2",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "04 Jul 2001",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+    "Plot": "Four teens are tricked by Professor Oldman (Tim Curry) into visiting a haunted house for a school project.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "14%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.3",
+    "imdbVotes": "160,255",
+    "imdbID": "tt0257106",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "$71,308,997",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bee Movie",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "02 Nov 2007",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Simon J. Smith, Steve Hickner",
+    "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+    "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+    "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "160,048",
+    "imdbID": "tt0389790",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$126,631,277",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "13 wins & 68 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "147,945",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,936,671",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans",
+    "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "146,513",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$110,003,217",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Jim Abrahams, Pat Proft",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "120,905",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,710,620",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Movie 43",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+    "Writer": "Rocky Russo, Jeremy Sosenko, Ricky Blitt",
+    "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+    "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "4%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "18/100"
+      }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.3",
+    "imdbVotes": "105,425",
+    "imdbID": "tt1333125",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$8,840,453",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+    "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "348,902",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "17 Jun 2014",
+    "BoxOffice": "$257,966,122",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2007",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "David Silverman",
+    "Writer": "James L. Brooks, Matt Groening, Al Jean",
+    "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+    "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 BAFTA Award5 wins & 34 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "327,100",
+    "imdbID": "tt0462538",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$183,135,014",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "256,495",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "11 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Vince Gilligan",
+    "Writer": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "228,680",
+    "imdbID": "tt9243946",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 2",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "04 Jul 2001",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+    "Plot": "Four teens are tricked by Professor Oldman (Tim Curry) into visiting a haunted house for a school project.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "14%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.3",
+    "imdbVotes": "160,255",
+    "imdbID": "tt0257106",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "$71,308,997",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bee Movie",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "02 Nov 2007",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Simon J. Smith, Steve Hickner",
+    "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+    "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+    "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "160,048",
+    "imdbID": "tt0389790",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$126,631,277",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "13 wins & 68 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "147,945",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,936,671",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans",
+    "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "146,513",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$110,003,217",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Jim Abrahams, Pat Proft",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "120,905",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,710,620",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Movie 43",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+    "Writer": "Rocky Russo, Jeremy Sosenko, Ricky Blitt",
+    "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+    "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "4%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "18/100"
+      }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.3",
+    "imdbVotes": "105,425",
+    "imdbID": "tt1333125",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$8,840,453",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+    "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "348,902",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "17 Jun 2014",
+    "BoxOffice": "$257,966,122",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2007",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "David Silverman",
+    "Writer": "James L. Brooks, Matt Groening, Al Jean",
+    "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+    "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 BAFTA Award5 wins & 34 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "327,100",
+    "imdbID": "tt0462538",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$183,135,014",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "256,495",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "11 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Vince Gilligan",
+    "Writer": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "228,680",
+    "imdbID": "tt9243946",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 2",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "04 Jul 2001",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+    "Plot": "Four teens are tricked by Professor Oldman (Tim Curry) into visiting a haunted house for a school project.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "14%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.3",
+    "imdbVotes": "160,255",
+    "imdbID": "tt0257106",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "$71,308,997",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bee Movie",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "02 Nov 2007",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Simon J. Smith, Steve Hickner",
+    "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+    "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+    "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "160,048",
+    "imdbID": "tt0389790",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$126,631,277",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "13 wins & 68 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "147,945",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,936,671",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans",
+    "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "146,513",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$110,003,217",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Jim Abrahams, Pat Proft",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "120,905",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,710,620",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Movie 43",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+    "Writer": "Rocky Russo, Jeremy Sosenko, Ricky Blitt",
+    "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+    "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "4%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "18/100"
+      }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.3",
+    "imdbVotes": "105,425",
+    "imdbID": "tt1333125",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$8,840,453",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+    "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "348,902",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "17 Jun 2014",
+    "BoxOffice": "$257,966,122",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2007",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "David Silverman",
+    "Writer": "James L. Brooks, Matt Groening, Al Jean",
+    "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+    "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 BAFTA Award5 wins & 34 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "327,100",
+    "imdbID": "tt0462538",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$183,135,014",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "256,495",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "11 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Vince Gilligan",
+    "Writer": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "228,680",
+    "imdbID": "tt9243946",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 2",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "04 Jul 2001",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+    "Plot": "Four teens are tricked by Professor Oldman (Tim Curry) into visiting a haunted house for a school project.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "14%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.3",
+    "imdbVotes": "160,255",
+    "imdbID": "tt0257106",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "$71,308,997",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bee Movie",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "02 Nov 2007",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Simon J. Smith, Steve Hickner",
+    "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+    "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+    "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "160,048",
+    "imdbID": "tt0389790",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$126,631,277",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "13 wins & 68 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "147,945",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,936,671",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans",
+    "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "146,513",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$110,003,217",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Jim Abrahams, Pat Proft",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "120,905",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,710,620",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Movie 43",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+    "Writer": "Rocky Russo, Jeremy Sosenko, Ricky Blitt",
+    "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+    "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "4%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "18/100"
+      }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.3",
+    "imdbVotes": "105,425",
+    "imdbID": "tt1333125",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$8,840,453",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+    "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "348,902",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "17 Jun 2014",
+    "BoxOffice": "$257,966,122",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2007",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "David Silverman",
+    "Writer": "James L. Brooks, Matt Groening, Al Jean",
+    "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+    "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 BAFTA Award5 wins & 34 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "327,100",
+    "imdbID": "tt0462538",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$183,135,014",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "256,495",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "11 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Vince Gilligan",
+    "Writer": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "228,680",
+    "imdbID": "tt9243946",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 2",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "04 Jul 2001",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+    "Plot": "Four teens are tricked by Professor Oldman (Tim Curry) into visiting a haunted house for a school project.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "14%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.3",
+    "imdbVotes": "160,255",
+    "imdbID": "tt0257106",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "$71,308,997",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bee Movie",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "02 Nov 2007",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Simon J. Smith, Steve Hickner",
+    "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+    "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+    "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "160,048",
+    "imdbID": "tt0389790",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$126,631,277",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "13 wins & 68 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "147,945",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,936,671",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans",
+    "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "146,513",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$110,003,217",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Jim Abrahams, Pat Proft",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "120,905",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,710,620",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Movie 43",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+    "Writer": "Rocky Russo, Jeremy Sosenko, Ricky Blitt",
+    "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+    "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "4%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "18/100"
+      }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.3",
+    "imdbVotes": "105,425",
+    "imdbID": "tt1333125",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$8,840,453",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+    "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "348,902",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "17 Jun 2014",
+    "BoxOffice": "$257,966,122",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2007",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "David Silverman",
+    "Writer": "James L. Brooks, Matt Groening, Al Jean",
+    "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+    "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 BAFTA Award5 wins & 34 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "327,100",
+    "imdbID": "tt0462538",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$183,135,014",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "256,495",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "11 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Vince Gilligan",
+    "Writer": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "228,680",
+    "imdbID": "tt9243946",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 2",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "04 Jul 2001",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+    "Plot": "Four teens are tricked by Professor Oldman (Tim Curry) into visiting a haunted house for a school project.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "14%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.3",
+    "imdbVotes": "160,255",
+    "imdbID": "tt0257106",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "$71,308,997",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bee Movie",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "02 Nov 2007",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Simon J. Smith, Steve Hickner",
+    "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+    "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+    "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "160,048",
+    "imdbID": "tt0389790",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$126,631,277",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "13 wins & 68 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "147,945",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,936,671",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans",
+    "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "146,513",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$110,003,217",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Jim Abrahams, Pat Proft",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "120,905",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,710,620",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Movie 43",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+    "Writer": "Rocky Russo, Jeremy Sosenko, Ricky Blitt",
+    "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+    "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "4%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "18/100"
+      }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.3",
+    "imdbVotes": "105,425",
+    "imdbID": "tt1333125",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$8,840,453",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+    "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "348,902",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "17 Jun 2014",
+    "BoxOffice": "$257,966,122",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2007",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "David Silverman",
+    "Writer": "James L. Brooks, Matt Groening, Al Jean",
+    "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+    "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 BAFTA Award5 wins & 34 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "327,100",
+    "imdbID": "tt0462538",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$183,135,014",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "256,495",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "11 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Vince Gilligan",
+    "Writer": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "228,680",
+    "imdbID": "tt9243946",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 2",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "04 Jul 2001",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+    "Plot": "Four teens are tricked by Professor Oldman (Tim Curry) into visiting a haunted house for a school project.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "14%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.3",
+    "imdbVotes": "160,255",
+    "imdbID": "tt0257106",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "$71,308,997",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bee Movie",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "02 Nov 2007",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Simon J. Smith, Steve Hickner",
+    "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+    "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+    "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "160,048",
+    "imdbID": "tt0389790",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$126,631,277",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "13 wins & 68 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "147,945",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,936,671",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans",
+    "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "146,513",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$110,003,217",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Jim Abrahams, Pat Proft",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "120,905",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,710,620",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Movie 43",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+    "Writer": "Rocky Russo, Jeremy Sosenko, Ricky Blitt",
+    "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+    "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "4%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "18/100"
+      }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.3",
+    "imdbVotes": "105,425",
+    "imdbID": "tt1333125",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$8,840,453",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Phil Lord, Christopher Miller, Dan Hageman",
+    "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. 72 wins & 67 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "348,902",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "17 Jun 2014",
+    "BoxOffice": "$257,966,122",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Simpsons Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2007",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "David Silverman",
+    "Writer": "James L. Brooks, Matt Groening, Al Jean",
+    "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+    "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 BAFTA Award5 wins & 34 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "327,100",
+    "imdbID": "tt0462538",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$183,135,014",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "256,495",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "11 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Vince Gilligan",
+    "Writer": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "228,680",
+    "imdbID": "tt9243946",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 2",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "04 Jul 2001",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+    "Plot": "Four teens are tricked by Professor Oldman (Tim Curry) into visiting a haunted house for a school project.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "14%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.3",
+    "imdbVotes": "160,255",
+    "imdbID": "tt0257106",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "$71,308,997",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bee Movie",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "02 Nov 2007",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Simon J. Smith, Steve Hickner",
+    "Writer": "Jerry Seinfeld, Spike Feresten, Barry Marder",
+    "Actors": "Jerry Seinfeld, Renée Zellweger, Matthew Broderick",
+    "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "160,048",
+    "imdbID": "tt0389790",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$126,631,277",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "United States, Denmark, Australia",
+    "Awards": "13 wins & 68 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "147,945",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,936,671",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans",
+    "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "146,513",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$110,003,217",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Jim Abrahams, Pat Proft",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "120,905",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,710,620",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Movie 43",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+    "Writer": "Rocky Russo, Jeremy Sosenko, Ricky Blitt",
+    "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+    "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "4%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "18/100"
+      }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.3",
+    "imdbVotes": "105,425",
+    "imdbID": "tt1333125",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$8,840,453",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+]
