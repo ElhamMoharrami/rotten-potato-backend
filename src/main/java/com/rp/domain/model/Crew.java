@@ -20,6 +20,8 @@ public class Crew {
     private String death;
     @Column(name = "PROFESSION")
     private String profession;
+    @Column(name = "POSTER")
+    private String poster;
     @ManyToMany(cascade = CascadeType.ALL)
     @JoinTable(name = "movie_crew",
             joinColumns = @JoinColumn(name = "crew_id", referencedColumnName = "id"),
