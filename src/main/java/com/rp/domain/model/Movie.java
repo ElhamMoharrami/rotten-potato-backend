@@ -13,7 +13,6 @@ public class Movie {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
-
     @JsonProperty("Title")
     private String title;
     @JsonProperty("Year")
