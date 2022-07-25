@@ -1,55 +1,57 @@
 package com.rp.domain.model;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 import javax.persistence.*;
+import java.util.List;
 
 @Data
 @Entity
 @Table(name = "movie")
 public class Movie {
-
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
-    @JsonProperty("Title")
+    @Column(name = "ID")
+    private String id;
+    @Column(name = "TITLE")
     private String title;
-    @JsonProperty("Year")
+    @Column(name = "YEAR")
     private String year;
-    @JsonProperty("Rated")
+    @Column(name = "RATED")
     private String rated;
-    @JsonProperty("Released")
+    @Column(name = "RELEASED")
     private String released;
-    @JsonProperty("Runtime")
+    @Column(name = "RUNTIME")
     private String runtime;
-    @JsonProperty("Genre")
+    @Column(name = "GENRE")
     private String genre;
-    @JsonProperty("Director")
+    @Column(name = "DIRECTOR")
     private String director;
-    @JsonProperty("Writer")
+    @Column(name = "WRITER")
     private String writer;
-    @JsonProperty("Actors")
+    @Column(name = "ACTORS")
     private String actors;
-    @JsonProperty("Plot")
+    @Column(name = "PLOT")
     private String plot;
-    @JsonProperty("Language")
+    @Column(name = "LANGUAGE")
     private String language;
-    @JsonProperty("Country")
+    @Column(name = "COUNTRY")
     private String country;
-    @JsonProperty("Awards")
+    @Column(name = "AWARDS")
     private String awards;
-    @JsonProperty("Poster")
+    @Column(name = "POSTER")
     private String poster;
-    @JsonProperty("MetaScore")
-    private int metaScore;
-    @JsonProperty("imdbRating")
-    private double imdbRating;
-    @JsonProperty("imdbVotes")
+    @Column(name = "META_SCORE")
+    private String metaScore;
+    @Column(name = "IMDB_RATING")
+    private Double imdbRating;
+    @Column(name = "IMDB_VOTES")
     private String imdbVotes;
-    @JsonProperty("imdbID")
-    private String imdbId;
-    @JsonProperty("Type")
+    @Column(name = "TYPE")
     private String type;
+    @ManyToMany(cascade = CascadeType.ALL)
+    @JoinTable(name = "movie_crew",
+            joinColumns = @JoinColumn(name = "movie_id", referencedColumnName = "id"),
+            inverseJoinColumns = @JoinColumn(name = "crew_id", referencedColumnName = "id"))
+    private List<Crew> crews;
 
 }
