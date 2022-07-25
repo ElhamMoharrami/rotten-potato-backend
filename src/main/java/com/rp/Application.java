@@ -30,14 +30,14 @@ public class Application implements RepositoryRestConfigurer {
         SpringApplication.run(Application.class, args);
     }
 
-    @Bean
-    InitializingBean sendDatabase() {
-        return () -> {
-            ObjectMapper mapper = new ObjectMapper().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
-            Movie[] movies = mapper.readValue(new File("movies.json"), Movie[].class);
-            movieRepository.saveAll(Arrays.asList(movies));
-        };
-    }
+//    @Bean
+//    InitializingBean sendDatabase() {
+//        return () -> {
+//            ObjectMapper mapper = new ObjectMapper().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+//            Movie[] movies = mapper.readValue(new File("movies.json"), Movie[].class);
+//            movieRepository.saveAll(Arrays.asList(movies));
+//        };
+//    }
     @Override
     public void configureRepositoryRestConfiguration(RepositoryRestConfiguration config) {
         config.exposeIdsFor(Movie.class);
