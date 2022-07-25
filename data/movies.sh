@@ -1,7 +1,7 @@
 
 echo "[" > movies.json
 for p in 1 2 3 4 5 6 7 8 9 10; do
-  MOVIES=$(curl -s  'http://www.omdbapi.com/?s=%22Movie%22&page=$p&apikey=812313e3')
+  MOVIES=$(curl -s  "http://www.omdbapi.com/?s=%22Movie%22&page=$p&apikey=812313e3")
   IDS=$(echo $MOVIES | grep -o '"imdbID":"tt......."' | cut -d '"' -f4)
   for I in $IDS; do
     echo $I
