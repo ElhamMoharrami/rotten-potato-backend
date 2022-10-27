@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 @CrossOrigin(origins = "*")
 public interface CrewRepository extends PagingAndSortingRepository<Crew, String> {
 
-
     @RestResource(path = "byName")
     Page<Crew> findByNameContainingIgnoreCase(String name, Pageable pageable);
 

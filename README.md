@@ -52,3 +52,7 @@ Applicable to these urls:
 `http://localhost:8080/api/crews` <br/>
 `http://localhost:8080/api/crews/search/byTitle` <br/>
 `http://localhost:8080/api/crews/search/byProfession` <br/>
+
+----
+### Login
+POST `http://localhost:8080/api/login`, parameters: username, password 
