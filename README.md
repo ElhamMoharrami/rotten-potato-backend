@@ -56,3 +56,6 @@ Applicable to these urls:
 ----
 ### Login
 POST `http://localhost:8080/api/login`, parameters: username, password 
+
+### add account
+POST `http://localhost:8080/api/user`, parameters: username, password 
