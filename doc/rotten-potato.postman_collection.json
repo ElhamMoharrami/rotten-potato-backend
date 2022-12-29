@@ -368,6 +368,159 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "/api/review",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/reviews",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"reviews"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/api/review",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"movie\":\"http://localhost:8080/api/movies/tt0306841\",\n    \"user\": \"http://localhost:8080/api/users/94501dc6-2006-7189-3eb7-a8fe1b14c588\",\n    \"rate\": 3.5,\n    \"description\" : \"test\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/reviews",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"reviews"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/api/review",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"movie\":\"http://localhost:8080/api/movies/tt0306841\",\n    \"user\": \"http://localhost:8080/api/users/94501dc6-2006-7189-3eb7-a8fe1b14c588\",\n    \"rate\": 10,\n    \"description\" : \"test2222\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/reviews/40283294855de4cb01855de507d20000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"reviews",
+						"40283294855de4cb01855de507d20000"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/api/review",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/reviews/40283294855de4cb01855de507d20000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"reviews",
+						"40283294855de4cb01855de507d20000"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/api/movies/search/search",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/reviews/search/search?description=te&rateFrom=1&rateTo=3.5&user=94501dc6-2006-7189-3eb7-a8fe1b14c588&movie=tt0306841",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"reviews",
+						"search",
+						"search"
+					],
+					"query": [
+						{
+							"key": "description",
+							"value": "te"
+						},
+						{
+							"key": "rateFrom",
+							"value": "1"
+						},
+						{
+							"key": "rateTo",
+							"value": "3.5"
+						},
+						{
+							"key": "user",
+							"value": "94501dc6-2006-7189-3eb7-a8fe1b14c588"
+						},
+						{
+							"key": "movie",
+							"value": "tt0306841"
+						}
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }

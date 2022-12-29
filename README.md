@@ -36,10 +36,20 @@ Applicable to these urls:
 `http://localhost:8080/api/crews/{crew_id}/movies` <br/>
 `http://localhost:8080/api/crews/{crew_id}/movies/{movie_id}` <br/>
 
+----
+### Reviews
+
+`http://localhost:8080/api/reviews` <br/>
+`http://localhost:8080/api/reviews?page={page-nember}&size={page-size}` <br/>
+`http://localhost:8080/api/reviews/{review_id}` <br/>
+`http://localhost:8080/api/reviews/{review_id}/user` <br/>
+`http://localhost:8080/api/reviews/{review_id}/movie` <br/>
+
 #### search
 `http://localhost:8080/api/crews/search/byTitle?title={keyword}&page={page-nember}&size={page-size}` <br/>
 `http://localhost:8080/api/crews/search/byProfession?profession={profession}&page={page-nember}&size={page-size}` <br/>
 `http://localhost:8080/api/movies/search/search?name={name}&birthFrom={year-from}&birthTo={year-to}&profession={profession}` <br/>
+`http://localhost:8080/api/reviews/search/search?description={description}&rateFrom={rate-from}&rateTo={rate-to}&user={user-id}&movie={movie-id}` <br/>
 
 Valid professions are:
 `actor actress animation_department art_department art_director assistant assistant_director camera_department casting_department casting_director cinematographer composer costume_department costume_designer director editor editorial_department executive legal location_management make_up_department manager miscellaneous music_department producer production_designer production_manager programmer publicist script_department set_decorator sound_department soundtrack special_effects stunts talent_agent transportation_department visual_effects writer`
