@@ -46,6 +46,8 @@ Applicable to these urls:
 `http://localhost:8080/api/reviews/{review_id}/movie` <br/>
 
 #### search
+
+`http://localhost:8080/api/users/search/byUsername?username={username}` <br/>
 `http://localhost:8080/api/crews/search/byTitle?title={keyword}&page={page-nember}&size={page-size}` <br/>
 `http://localhost:8080/api/crews/search/byProfession?profession={profession}&page={page-nember}&size={page-size}` <br/>
 `http://localhost:8080/api/movies/search/search?name={name}&birthFrom={year-from}&birthTo={year-to}&profession={profession}` <br/>
