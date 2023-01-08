@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 @RepositoryRestResource
 @CrossOrigin(origins = "*")
 public interface UserRepository extends PagingAndSortingRepository<User, String> {
-    @RestResource(path = "byUserName")
+    @RestResource(path = "byUsername")
     User findByUsername(String username);
 }
