@@ -1,6 +1,5 @@
 package com.rp.domain.model;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
 import org.hibernate.annotations.GenericGenerator;
 
@@ -10,8 +9,9 @@ import javax.persistence.*;
 @Entity
 @Table(name = "review")
 public class Review {
-    @Id @GeneratedValue(generator="system-uuid")
-    @GenericGenerator(name="system-uuid", strategy = "uuid")
+    @Id
+    @GeneratedValue(generator = "system-uuid")
+    @GenericGenerator(name = "system-uuid", strategy = "uuid")
     @Column(name = "ID")
     private String id;
     @Column(name = "RATE")

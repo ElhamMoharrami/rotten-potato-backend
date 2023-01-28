@@ -2,6 +2,7 @@ package com.rp.domain.model;
 
 import lombok.Data;
 import org.hibernate.annotations.GenericGenerator;
+
 import javax.persistence.*;
 import java.util.List;
 
@@ -9,8 +10,9 @@ import java.util.List;
 @Entity
 @Table(name = "movie")
 public class Movie {
-    @Id @GeneratedValue(generator="system-uuid")
-    @GenericGenerator(name="system-uuid", strategy = "uuid")
+    @Id
+    @GeneratedValue(generator = "system-uuid")
+    @GenericGenerator(name = "system-uuid", strategy = "uuid")
     @Column(name = "ID")
     private String id;
     @Column(name = "TITLE")
