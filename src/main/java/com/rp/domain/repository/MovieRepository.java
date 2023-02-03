@@ -21,9 +21,9 @@ public interface MovieRepository extends PagingAndSortingRepository<Movie, Strin
 
     @RestResource(path = "search")
     @Query("SELECT m FROM Movie m " +
-            "where (:title is null or lower(m.title) like lower(concat('%', :title, '%'))) " +
+            "where (:title is null or lower(m.title) like lower(concat('%', text(:title), '%'))) " +
             "and   (:minRate is null or m.imdbRating >= :minRate) " +
-            "and   (:genre is null or lower(m.genre) like lower(concat('%', :genre, '%'))) " +
+            "and   (:genre is null or lower(m.genre) like lower(concat('%', text(:genre), '%'))) " +
             "and   (:yearFrom is null or m.year >= :yearFrom) " +
             "and   (:yearTo is null or m.year <= :yearTo) ")
     Page<Movie> search(

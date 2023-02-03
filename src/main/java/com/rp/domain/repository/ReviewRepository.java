@@ -15,7 +15,7 @@ public interface ReviewRepository extends PagingAndSortingRepository<Review, Str
 
     @RestResource(path = "search")
     @Query("SELECT r FROM Review r " +
-            "where (:description is null or lower(r.description) like lower(concat('%', :description, '%'))) " +
+            "where (:description is null or lower(r.description) like lower(concat('%', text(:description), '%'))) " +
             "and   (:user is null or r.user.id like :user) " +
             "and   (:movie is null or r.movie.id like :movie) " +
             "and   (:rateFrom is null or r.rate >= :rateFrom) " +

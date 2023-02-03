@@ -21,8 +21,8 @@ public interface CrewRepository extends PagingAndSortingRepository<Crew, String>
 
     @RestResource(path = "search")
     @Query("SELECT c FROM Crew c " +
-            "where (:name is null or lower(c.name) like lower(concat('%', :name ,'%'))) " +
-            "and   (:profession is null or lower(c.profession) like lower(concat('%', :profession, '%'))) " +
+            "where (:name is null or lower(c.name) like lower(concat('%', text(:name) ,'%'))) " +
+            "and   (:profession is null or lower(c.profession) like lower(concat('%', text(:profession), '%'))) " +
             "and   (:birthFrom is null or c.birth >= :birthFrom) " +
             "and   (:birthTo is null or c.birth <= :birthTo) ")
     Page<Crew> search(
